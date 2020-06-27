@@ -1,0 +1,9 @@
+C:\Users\Hydra\Desktop\2 задание\2 задание\bin\Debug\2 задание.exe.config
+C:\Users\Hydra\Desktop\2 задание\2 задание\bin\Debug\2 задание.exe
+C:\Users\Hydra\Desktop\2 задание\2 задание\bin\Debug\2 задание.pdb
+C:\Users\Hydra\Desktop\2 задание\2 задание\obj\Debug\2 задание.csprojAssemblyReference.cache
+C:\Users\Hydra\Desktop\2 задание\2 задание\obj\Debug\_2_задание.Form1.resources
+C:\Users\Hydra\Desktop\2 задание\2 задание\obj\Debug\_2_задание.Properties.Resources.resources
+C:\Users\Hydra\Desktop\2 задание\2 задание\obj\Debug\2 задание.csproj.GenerateResource.cache
+C:\Users\Hydra\Desktop\2 задание\2 задание\obj\Debug\2 задание.exe
+C:\Users\Hydra\Desktop\2 задание\2 задание\obj\Debug\2 задание.pdb

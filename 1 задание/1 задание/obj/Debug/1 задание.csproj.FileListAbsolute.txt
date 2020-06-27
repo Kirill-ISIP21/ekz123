@@ -1,0 +1,6 @@
+C:\Users\Hydra\Desktop\1 задание\1 задание\bin\Debug\1 задание.exe.config
+C:\Users\Hydra\Desktop\1 задание\1 задание\bin\Debug\1 задание.exe
+C:\Users\Hydra\Desktop\1 задание\1 задание\bin\Debug\1 задание.pdb
+C:\Users\Hydra\Desktop\1 задание\1 задание\obj\Debug\1 задание.csprojAssemblyReference.cache
+C:\Users\Hydra\Desktop\1 задание\1 задание\obj\Debug\1 задание.exe
+C:\Users\Hydra\Desktop\1 задание\1 задание\obj\Debug\1 задание.pdb
